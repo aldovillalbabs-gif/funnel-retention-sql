@@ -63,13 +63,13 @@ MercadoLibre activates users well, but struggles to build **long-term usage habi
 ## Visual Highlights
 
 ### Funnel Conversion by Country
-![Funnel heatmap](images/funnel_conversion_by_country.png)
+![Funnel heatmap](Images/funnel_conversion_by_country.png)
 
 ### Retention by Country (D7–D28)
-![Retention by country](images/retention_by_country.png)
+![Retention by country](Images/retention_by_country.png)
 
 ### Cohort Retention Heatmap
-![Cohort retention](images/cohort_retention_heatmap.png)
+![Cohort retention](Images/cohort_retention_heatmap.png)
 
 ---
 
